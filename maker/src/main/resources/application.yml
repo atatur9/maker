@@ -1,0 +1,6 @@
+# Spring Core
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/atatur9
+    username: root
+    password: root

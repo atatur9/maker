@@ -1,4 +1,4 @@
-buildscript {
+        buildscript {
 	ext {
 		springBootVersion = '2.0.0.M7'
 	}
@@ -35,6 +35,9 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-webflux')
     compile 'org.eclipse.collections:eclipse-collections-api:9.0.0'
     compile 'org.eclipse.collections:eclipse-collections:9.0.0'
+    compile 'mysql:mysql-connector-java'
+    compile 'javax.xml.bind:jaxb-api:2.3.0'
+    testCompile('org.springframework.boot:spring-boot-starter-test')
 	runtime('org.springframework.boot:spring-boot-devtools')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	testCompile('io.projectreactor:reactor-test')

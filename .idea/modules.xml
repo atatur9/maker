@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/maker.iml" filepath="$PROJECT_DIR$/maker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/maker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/maker_main.iml" group="maker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/maker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/maker_test.iml" group="maker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/maker~1.iml" filepath="$PROJECT_DIR$/.idea/modules/maker~1.iml" />
     </modules>
   </component>
 </project>

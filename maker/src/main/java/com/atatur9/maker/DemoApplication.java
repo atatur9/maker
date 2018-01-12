@@ -1,4 +1,4 @@
-package com.atatur9.demo;
+package com.atatur9.maker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
